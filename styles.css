@@ -6,6 +6,17 @@
       background-size: cover;
         font-family: Arial, Helvetica, sans-serif;
     }
+    a:link {
+  color: green;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
 
     hr{
       border-style: none;
